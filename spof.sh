@@ -12,7 +12,7 @@ echo '                                                                          
 echo '.........................................................................'
 
 
-echo "Scaneando a bagaça...."
+echo "Scaneando...."
 sleep 1 
 echo "Loading"
 
